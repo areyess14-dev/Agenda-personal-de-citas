@@ -1,1 +1,60 @@
+# INVESTIGACIÓN: USO DE MARKDOWN EN PROYECTOS DE SOFTWARE
+
+---
+
+## 1. ¿QUÉ ES MARKDOWN?
+
+Markdown es un lenguaje de marcado ligero creado por John Gruber en 2004. Su objetivo es permitir a las personas escribir usando un formato de texto plano fácil de leer y escribir, que luego puede convertirse en HTML estructuralmente válido.
+
+### Características Principales:
+
+- **Simplicidad:** Sintaxis minimalista y fácil de aprender
+- **Legibilidad:** El texto sin procesar es legible sin necesidad de renderizado
+- **Portabilidad:** Archivos de texto plano que funcionan en cualquier plataforma
+- **Conversión:** Se puede convertir a HTML, PDF, Word, etc.
+
+---
+
+## 2. ¿POR QUÉ SE UTILIZA EN PROYECTOS DE SOFTWARE?
+
+### 2.1 Ventajas en Desarrollo de Software:
+
+1. **Control de Versiones Amigable**
+   - Archivos de texto plano funcionan perfectamente con Git
+   - Los diffs son legibles y fáciles de revisar
+   - No hay conflictos de formato binario
+
+2. **Documentación Integrada**
+   - README.md es el estándar de facto en GitHub
+   - Documentación vive junto al código
+   - Fácil de mantener actualizada
+
+3. **Colaboración Simplificada**
+   - Cualquiera puede editar con un editor de texto
+   - No requiere software especializado
+   - Facilita las contribuciones open source
+
+4. **Renderizado Automático**
+   - GitHub, GitLab, Bitbucket renderizan automáticamente
+   - Wikis y documentación se ven profesionales
+   - Soporte para tablas, código y más
+
+5. **Enfoque en el Contenido**
+   - Sin distracciones de formato
+   - Escritura rápida y eficiente
+   - Consistencia automática
+
+---
+
+## 3. EJEMPLO PRÁCTICO DE USO DE MARKDOWN
+
+### 3.1 Encabezados
+
+```markdown
+# Encabezado Nivel 1
+## Encabezado Nivel 2
+### Encabezado Nivel 3
+#### Encabezado Nivel 4
+##### Encabezado Nivel 5
+###### Encabezado Nivel 6
 
